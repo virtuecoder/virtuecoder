@@ -32,10 +32,3 @@ I'm **Jacek Kołodziejczyk**, a software developer based in Kraków, Poland.
 Passionate about productivity, quality work, and attention to detail.
 I love Jesus.
 
----
-
-## Connect
-
-- **Twitter/X:** [@VirtueCoder](https://twitter.com/VirtueCoder)
-- **LinkedIn:** [Jacek Kołodziejczyk](https://linkedin.com/in/jacek-kolodziejczyk)
-- **Facebook:** [facebook.com/jacek.kolodziejczyk](https://facebook.com/jacek.kolodziejczyk)
