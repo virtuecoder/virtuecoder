@@ -2,7 +2,7 @@
 
 **I build focused tools that solve real problems.**
 32 years in software — Fortune 500, government systems, UN projects.
-Now I build for users, not clients.
+
 
 ---
 
@@ -30,5 +30,6 @@ I'm **Jacek Kołodziejczyk**, a software developer based in Kraków, Poland.
 - Creator of the SWT Matrix component ([netanel.pl](https://netanel.pl))
 
 Passionate about productivity, quality work, and attention to detail.
+
 I love Jesus.
 
