@@ -15,7 +15,7 @@ Paste your script → get accurate timing by reading speed. Free, no signup.
 
 ### Editions Bible
 **[editions.bible](https://editions.bible)**
-Read and study the Bible in a clean, focused reading experience.
+A curated directory helping you find the right Bible edition — fast.
 Built by someone who has followed Jesus for 37 years and wanted something better.
 
 ---
