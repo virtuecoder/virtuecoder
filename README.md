@@ -31,5 +31,5 @@ I'm **Jacek Kołodziejczyk**, a software developer based in Kraków, Poland.
 
 Passionate about productivity, quality work, and attention to detail.
 
-I love Jesus.
+Jesus is real to me. 
 
